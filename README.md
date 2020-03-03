@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the LSPDFR Developers Knowledge Base!
 
-You can use the [editor on GitHub](https://github.com/LukeD1994/LSPDFR-Knowledge-Base/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Luke, why does this page and repository exist? That's simple. The LSPDFR developers discord server, along with all of discord servers, has lots of useful code snippets posted in it which you cannot access unless you are a member of the server. and even then they can be difficult to find exactly what you want without searching multiple different things.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is designed to allow users to find snippets by their title and hopefully allow new developers to create better plugins from it
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LukeD1994/LSPDFR-Knowledge-Base/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Changelog
+*Currently no changes due to initial build of the page, check back often for updates*
